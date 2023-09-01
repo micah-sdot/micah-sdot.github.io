@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/duck-hunt-2-920x518.jpg
 title: "Duckhunt"
 date: 2021
 published: true
