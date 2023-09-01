@@ -14,9 +14,9 @@ summary: "This is one of the simpler projects I have done using the Turtle Modul
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/CatchTurtle/Screenshot 2023-08-31 171631.png" class="img-thumbnail" >
-  <img width="200px" src="../img/CatchTurtle/Screenshot 2023-08-31 171650.png" class="img-thumbnail" >
-  <img width="200px" src="../img/CatchTurtle/Screenshot 2023-08-31 171707.png" class="img-thumbnail" >
+  <img width="300px" src="../img/CatchTurtle/Screenshot 2023-08-31 171631.png" class="img-thumbnail" >
+  <img width="300px" src="../img/CatchTurtle/Screenshot 2023-08-31 171650.png" class="img-thumbnail" >
+  <img width="300px" src="../img/CatchTurtle/Screenshot 2023-08-31 171707.png" class="img-thumbnail" >
 </div>
 
 
