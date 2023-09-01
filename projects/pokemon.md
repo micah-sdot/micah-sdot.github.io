@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/duck-hunt-2-920x518.jpg
+image: img/Pokemon/Poke-Ball-on-white-2kx2kpx-1024x1024.jpg
 title: "Pokemon"
 date: 2021
 published: true
@@ -14,9 +14,9 @@ summary: "As our final project for our class, we created a text-based Pokemon ad
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Pokemon/Screenshot 2023-08-31 171105.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Pokemon/Screenshot 2023-08-31 172119.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Pokemon/Screenshot 2023-08-31 172207.png" class="img-thumbnail" >
 </div>
 
 
