@@ -20,7 +20,9 @@ summary: "This is one of the simpler projects I have done using the Turtle Modul
 </div>
 
 
-This was a solo assignment where we had to create a game using the turtle module in Python. This game is Catch a Turtle. The aim of the game is to click on the newly appeared turtle that was on the screen and try to get as many as possible before the time runs out. 
+This was a solo assignment where we had to create a game using the turtle module in Python. This game is Catch a Turtle. The game aims to click on the newly appeared turtle on the screen and try to get as many as possible before the time runs out. The trick with this game is that whenever you click on the turtle, it stamps the canvas and you have to pay attention to where the newly made turtle shows up so you are able to click on it. 
 
-The trick with this game is that whenever you click on the turtle, it stamps the canvas and you have to pay attention to where the newly made turtle shows up so you are able to click on it. I also named the turtle Leonardo as a reference to the ninja turtles. 
+As I said, this was a solo assignment and I worked on this by myself. I did this all using the Turtle module in Python. The Turtle module has a thing where you can change the cursor shape and I just changed the cursor into the form of a turtle. I also named the turtle Leonardo as a reference to the ninja turtles. 
+
+It definitely is not the nicest-looking game in the world, but given what we had to use, I would say that it turned out pretty well. 
 
