@@ -14,9 +14,9 @@ summary: "As our final project for our class, we created a text-based Pokemon ad
 
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/Pokemon/Screenshot 2023-08-31 171105.png" class="img-thumbnail" >
-  <img width="600px" src="../img/Pokemon/Screenshot 2023-08-31 172119.png" class="img-thumbnail" >
-  <img width="600px" src="../img/Pokemon/Screenshot 2023-08-31 172207.png" class="img-thumbnail" >
+  <img width="500px" src="../img/Pokemon/Screenshot 2023-08-31 171105.png" class="img-thumbnail" >
+  <img width="500px" src="../img/Pokemon/Screenshot 2023-08-31 172119.png" class="img-thumbnail" >
+  <img width="500px" src="../img/Pokemon/Screenshot 2023-08-31 172207.png" class="img-thumbnail" >
 </div>
 
 
