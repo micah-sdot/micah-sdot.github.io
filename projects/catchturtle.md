@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/duck-hunt-2-920x518.jpg
+image: img/CatchTurtle/images.jpg
 title: "Catch a Turtle"
 date: 2020
 published: true
@@ -14,9 +14,9 @@ summary: "This is one of the simpler projects I have done using the Turtle Modul
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/CatchTurtle/Screenshot 2023-08-31 171631.png" class="img-thumbnail" >
+  <img width="200px" src="../img/CatchTurtle/Screenshot 2023-08-31 171650.png" class="img-thumbnail" >
+  <img width="200px" src="../img/CatchTurtle/Screenshot 2023-08-31 171707.png" class="img-thumbnail" >
 </div>
 
 
