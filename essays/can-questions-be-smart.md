@@ -16,6 +16,7 @@ First, we can look at what a non “smart” question looks like. This first que
 
 Looking at another question from another developer, we can see that this is a smart question. It is formatted well with the code that they are asking for help with and there is nothing extra in their question to distract from the original question. The question was why they were getting a syntax error and they put the code into their question and the context of which line was causing the error. This is a “smart” question in comparison to the last one because it seems like they looked for different things that could have caused the problem and could not find anything, so that is when they finally asked for help.
 
-[First Question]([http://techfolios.github.io](https://stackoverflow.com/questions/26828036/int-cannot-be-converted-to-string))
+[First Question](https://stackoverflow.com/questions/26828036/int-cannot-be-converted-to-string)
+
 [Second Question](https://stackoverflow.com/questions/24237111/why-do-i-get-the-syntax-error-syntaxerror-invalid-syntax-in-a-line-with-perfe)
 
