@@ -4,7 +4,7 @@ type: essay
 title: "Why does Coding have a Style?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: false
+published: true
 labels:
   - Coding
   - Coding Style
