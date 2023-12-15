@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "Micah Schoefield",
+    "label": "Student",
+    "picture": "https://github.com/micah-sdot.png",
+    "email": "micah43@hawaii.edu",
+    "phone": "808-729-3450",
+    "website": "https://micah-sdot.github.io",
+    "summary": "I am studying for a B.A. in Information & Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "micah-sdot", "url": "https://github.com/micah-sdot" },
+      { "network": "linkedin", "username": "Micah Schoefield", "url": "https://www.linkedin.com/in/micah-schoefield-83b19228a/" },
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Web Design" },
+    { "name": "Game Design" },
+    { "name": "Music" },
+    { "name": "Gaming" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Eclipse", "Visual Studio Code", "IntelliJ" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information & Computer Science (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

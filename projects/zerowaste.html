@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Zero Waste | Micah Schoefield | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/micah-sdot.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Micah Schoefield | Professional Portfolio">
+    <meta property="og:url" content="https://micah-sdot.github.io/projects/zerowaste.html">
+    <meta property="og:title" content="Zero Waste | Micah Schoefield | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/micah-sdot.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Zero Waste | Micah Schoefield | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Micah Schoefield</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Zero Waste</h1>
+ <div class="text-center p-4">
+  <img width="300px" src="../img/zerowaste/addcontainer.png" class="img-thumbnail" />
+  <img width="300px" src="../img/zerowaste/listorder.png" class="img-thumbnail" />
+</div>
+
+<h2 id="what-was-it">What was it?</h2>
+
+<p>This was a project for the Hawaii Annual Code Challenge in 2023. It is an application that wanted the ability to keep track of reusable containers for food vendors at events. The general idea behind our website is that the vendors can keep track of how many containers they all have, so it has an inventory system. When a customer makes an order, the vendor uses the checkout tab to take containers away from the database and add the order to the order page. After each order is added, a QR code is shown for the customer that leads to a payment page for them to pay. The program also gives the customer a random ID number as an identifier to connect the person to the order when they return their container/containers so they can get their compensation when they return it.</p>
+
+<h2 id="my-role">My Role</h2>
+
+<p>I had two main parts, the order page and the add container page. Since these pages were my responsibility, it also meant that I had to create the Mongo databases for the containers and the customers. I will first start with the add page since that is what I finished first.</p>
+
+<h3 id="add-container">Add Container</h3>
+
+<p>The Add page is very simple. First, I had to create a database that consisted of containers. That was pretty easy to begin with as all there was to do was to be able to add containers with the attributes of the size of the container, and the vendor who owns the container. The add page just basically adds the amount of containers the user wants to add to their inventory so they can keep track of it in their database.</p>
+
+<h3 id="list-orders">List Orders</h3>
+
+<p>The list order page was not that hard as well except for one part. I first created a database for customers that included the customer’s name, the order ID, and the container and the amount. Then, I put every single order inside of a table on the list order page since it makes it easier for the vendor to be able to see all of their orders. But there are certain instances where the vendor may have hundreds of orders at a time, and it would not be good for the user if they had to scroll through hundreds of orders trying to find one. So I added a search bar for the table that would filter the table in real time based on the letters you type and if it matches the name connected to the order. This one was a little tough for me at first. I put an input box at the top of the table for the user to input the names. Then I used a regex and use state to update the table to match the letters the user typed in and show multiple different names of different orders.</p>
+
+<h2 id="problems-and-fixes">Problems and Fixes</h2>
+
+<p>The hardest part about this project was figuring out how we were going to have an identifier for each of the customers. It took so much time to figure out that we eventually only really got the ball rolling at the last minute, with no time to add anything extra to it. The site works and does what it is intended but the original vision is not there.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
