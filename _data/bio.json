@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Eclipse", "Visual Studio Code"]
+      "keywords": [ "MacOS", "Windows", "Eclipse", "Visual Studio Code", "IntelliJ" ]
     }
   ],
   "education": [
