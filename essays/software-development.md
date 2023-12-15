@@ -4,7 +4,7 @@ type: essay
 title: "Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-14
-published: false
+published: true
 labels:
   - Software Development
 ---
@@ -19,7 +19,7 @@ Coding standards are basically a set of rules that every software engineer shoul
 
 ## User Interface Frameworks
 
-UI frameworks, or user interface frameworks, are basically a set of blue prints that software developers can use in order to create their applications. It makes it a lot easier than having to basically do everything off of the base HTML. Bootstrap is a good framework that we use along with React and Meteor. Instead of putting everything into a style sheet, you can immediately style a section of your page just by adding a class to that section. It makes for a faster process when creating your website as you do not have to go back and forth between that file and a stylesheet that you made. It does not get rid of the use of a style sheet entirely, it just makes for a faster process.
+UI frameworks, or user interface frameworks, are basically a set of blueprints that software developers can use in order to create their applications. It makes it a lot easier than having to basically do everything off of the base HTML. Bootstrap is a good framework that we use along with React and Meteor. Instead of putting everything into a style sheet, you can immediately style a section of your page just by adding a class to that section. It makes for a faster process when creating your website as you do not have to go back and forth between that file and a stylesheet that you made. It does not get rid of the use of a style sheet entirely, it just makes for a faster process.
 
 ## Ethics in Software Development
 
